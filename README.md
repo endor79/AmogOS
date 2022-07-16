@@ -6,7 +6,7 @@ Isim https://amogos.studio/ projesinden alindi.
 
 Masaustu arka plani: https://github.com/Amog-OS/AmogOS-Wallpapers/blob/main/Moon.png
 
-Not: Isim ve arka plan disinda hicbir benzerlik yoktur.
+Isim ve arka plan disinda hicbir benzerlik yoktur.
 
 # Ekran Goruntuleri
 
@@ -21,9 +21,11 @@ Not: Isim ve arka plan disinda hicbir benzerlik yoktur.
 ![slimlock](https://user-images.githubusercontent.com/105305285/179355889-ab28fa9c-81b9-4489-8b0d-93da00f1539a.png)
 
 # Kullanici ve sifre
+
 loputon: amogos
 
 # Indirme baglantisi
 
 amd64 live: https://sourceforge.net/projects/amogos/files/AmogOS-5.3-%28SUS%29_amd64-live.iso/download
+
 amd64 live sha256sum: https://sourceforge.net/projects/amogos/files/sha256sum.txt/download
