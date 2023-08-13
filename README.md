@@ -20,7 +20,7 @@ Masaüstü arka planı: https://github.com/Amog-OS/AmogOS-Wallpapers/blob/main/M
 
 ![slimlock](https://user-images.githubusercontent.com/105305285/179355889-ab28fa9c-81b9-4489-8b0d-93da00f1539a.png)
 
-# Kullanıcı ve Şifre (Username and password)
+# Kullanıcı Adı ve Şifre (Username and password)
 
 Kullanıcı Adı: loputon
 
