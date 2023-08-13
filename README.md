@@ -33,4 +33,5 @@ Sifre: amogos
 # İndirme Sayısı
 
 [![Download AmogOS](https://img.shields.io/sourceforge/dt/amogos.svg)](https://sourceforge.net/projects/amogos/files/latest/download)
+
 [![Download AmogOS](https://img.shields.io/sourceforge/dm/amogos.svg)](https://sourceforge.net/projects/amogos/files/latest/download)
