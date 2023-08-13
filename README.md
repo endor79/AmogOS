@@ -33,5 +33,3 @@ Sifre: amogos
 # İndirme Sayısı
 
 [![Download AmogOS](https://img.shields.io/sourceforge/dt/amogos.svg)](https://sourceforge.net/projects/amogos/files/latest/download)
-
-![oss-users-love-us-white](https://github.com/endor79/AmogOS/assets/105305285/432b58eb-6273-4af0-b300-567653733512)
