@@ -1,4 +1,4 @@
-![oss-users-love-us-white](https://github.com/endor79/AmogOS/assets/105305285/48a46222-8bc2-4d2a-9819-27878bc4215f)![oss-users-love-us-white](https://github.com/endor79/AmogOS/assets/105305285/073ccf86-ad90-48b8-9ff6-cebdfd23dc17)# AmogOS (About)
+# AmogOS (About)
 
 Bu oturum eğlencesine yapılmış olup, LoputonLinux'un değiştirilmiş bir halidir.
 
@@ -33,5 +33,3 @@ Sifre: amogos
 # İndirme Sayısı
 
 [![Download AmogOS](https://img.shields.io/sourceforge/dt/amogos.svg)](https://sourceforge.net/projects/amogos/files/latest/download)
-
-![oss-users-love-us-white](https://github.com/endor79/AmogOS/assets/105305285/47ff3259-a18c-4969-89e3-ff57389b8697) ![oss-rising-star-white](https://github.com/endor79/AmogOS/assets/105305285/7afc901b-341c-4da2-85a4-01df9301cb70)
